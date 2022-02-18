@@ -1,0 +1,294 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+G:\HBRS\HBRS\bin\Debug\HBRS.exe
+G:\HBRS\HBRS\bin\Debug\HBRS.pdb
+G:\HBRS\HBRS\bin\Debug\HBRS.xml
+G:\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+G:\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.Resources.resources
+D:\reservation\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+D:\reservation\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+D:\reservation\HBRS\bin\Debug\HBRS.exe.config
+D:\reservation\HBRS\bin\Debug\HBRS.exe
+D:\reservation\HBRS\bin\Debug\HBRS.pdb
+D:\reservation\HBRS\bin\Debug\HBRS.xml
+D:\reservation\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\reservation\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\reservation\HBRS\obj\x86\Debug\HBRS.exe
+D:\reservation\HBRS\obj\x86\Debug\HBRS.xml
+D:\reservation\HBRS\obj\x86\Debug\HBRS.pdb
+D:\reservation\HBRS\obj\x86\Debug\HBRS.frmStaff.resources
+D:\oneDrive\Desktop\back-up\reservation\HBRS\bin\Debug\HBRS.exe.config
+D:\oneDrive\Desktop\back-up\reservation\HBRS\obj\x86\Debug\HBRS.exe
+D:\oneDrive\Desktop\back-up\reservation\HBRS\obj\x86\Debug\HBRS.xml
+D:\oneDrive\Desktop\back-up\reservation\HBRS\obj\x86\Debug\HBRS.pdb
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\bin\Debug\HBRS.exe.config
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.exe
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.xml
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.pdb
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\bin\Debug\HBRS.exe
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\bin\Debug\HBRS.pdb
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\bin\Debug\HBRS.xml
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmStaff.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.Resources.resources
+D:\oneDrive\Desktop\back-up\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+C:\Users\DJ\reservation - Copy\HBRS\bin\Debug\HBRS.exe.config
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\DJ\reservation - Copy\HBRS\bin\Debug\HBRS.exe
+C:\Users\DJ\reservation - Copy\HBRS\bin\Debug\HBRS.pdb
+C:\Users\DJ\reservation - Copy\HBRS\bin\Debug\HBRS.xml
+C:\Users\DJ\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DJ\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmStaff.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+C:\Users\DJ\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmAddUser.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\HBRS.exe.config
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\HBRS.exe
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\HBRS.pdb
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\HBRS.xml
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmAddUser.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmStaff.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\obj\x86\Debug\HBRS.CheckoutReportForm.resources
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\FlashControlV71.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MARKJAYSON\Desktop\reservation - Copy\HBRS\bin\Debug\stdole.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\HBRS.exe.config
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.exe
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.xml
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.pdb
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\HBRS.exe
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\HBRS.pdb
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\HBRS.xml
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.Shared.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\FlashControlV71.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\ShockwaveFlashObjects.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\stdole.dll
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.CheckoutReportForm.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmAddUser.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmStaff.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.Resources.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmReport.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmCheckInReport.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmRoomStatusReport.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmAdminAccountList.resources
+D:\oneDrive\Desktop\Application System\reservation - Copy\HBRS\obj\x86\Debug\HBRS.frmStaffAccountList.resources
+D:\oneDrive\Desktop\Reservation System Simulator\HBRS\bin\Debug\HBRS.exe.config
+D:\oneDrive\Desktop\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.exe
+D:\oneDrive\Desktop\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.xml
+D:\oneDrive\Desktop\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Application System\Reservation System Simulator\HBRS\bin\Debug\HBRS.exe.config
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.exe
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.xml
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Application System\Reservation System Simulator\HBRS\bin\Debug\HBRS.exe
+C:\Application System\Reservation System Simulator\HBRS\bin\Debug\HBRS.pdb
+C:\Application System\Reservation System Simulator\HBRS\bin\Debug\HBRS.xml
+C:\Application System\Reservation System Simulator\HBRS\bin\Debug\stdole.dll
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.CheckoutReportForm.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmAddUser.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmAdminAccountList.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmCheckInReport.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmReport.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmRoomStatusReport.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmStaff.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.frmStaffAccountList.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Application System\Reservation System Simulator\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
